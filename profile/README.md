@@ -1,5 +1,5 @@
 ## Sunset to dawn, fragment to whole ☀️
-[![Radiants-DAO's GitHub Banner](./public/banner.png)](https://radiant.nexus)
+[![Radiants-DAO's GitHub Banner](https://github.com/Radiants-DAO/.github/blob/main/profile/public/banner.png?raw=true)](https://radiant.nexus)
 <!--
 
 **Here are some ideas to get you started:**
